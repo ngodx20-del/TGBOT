@@ -1,5 +1,7 @@
 pyTelegramBotAPI
 psutil
 flask
+pillow
+python-telegram-bot
+qrcode[pil]
 requests
-
