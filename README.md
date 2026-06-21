@@ -1,2 +1,0 @@
-# TGBOT
-TGBOT deploy
